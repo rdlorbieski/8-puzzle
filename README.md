@@ -21,16 +21,7 @@ The 8-Puzzle Solver is a Python application that solves the classic 8-puzzle gam
 - **Reset the Puzzle:** Click the "Reset" button to generate a new random initial state and reset the puzzle.
 - **Exit the Application:** Close the window to exit the application.
 
-## How to Use
-
-- **Start the Application:** Run the main.py file to launch the application.
-- **View the Initial State:** Observe the randomly generated initial state of the 8-puzzle.
-- **Start the AI:** Click the "Start AI" button to initiate the solving process. The AI will solve the puzzle, and each step will be displayed on the board.
-- **Reset the Puzzle:** Click the "Reset" button to generate a new random initial state and reset the puzzle.
-- **Exit the Application:** Close the window to exit the application.
-
 ## Code Structure
-
 
 - **main.py:** Contains the main application logic, including the Pygame loop and GUI functions.
 
