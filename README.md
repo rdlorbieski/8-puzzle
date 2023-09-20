@@ -85,7 +85,7 @@ Addressing these challenges requires a combination of algorithmic knowledge, dat
    This will launch the 8-Puzzle Solver application. Follow the on-screen instructions to interact with the application.
 ## Demonstration of Results
 
-![Logo](https://rodolfo.lorbieski.eti.br/portfolio/8_puzzle_final.gif)
+![Logo](https://rodolfo.lorbieski.eti.br/portfolio/projetos/p8_puzzle_final.gif)
 
 
 ## Autores
